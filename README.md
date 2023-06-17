@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandu. 
-- 👀 I’m interested in Programming and Graphical Design. 
-- 🌱 I’m currently learning HTML, CSS, JS.
+- 👀 I’m interested in Programming. 
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on different projects. Always looking forward for new challenges.
 - 📫 You can get in touch with me via  Twitter (@_stmyield). 
 <!---
